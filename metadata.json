@@ -1,0 +1,6 @@
+{
+    "name": "Kenzu One Token",
+    "symbol": "KEN",
+    "description": "Token for Solana Playground",
+    "image": "https://raw.githubusercontent.com/kenzu-code/solana-playground/main/solana-token-image.png"
+  }
